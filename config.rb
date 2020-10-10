@@ -1,9 +1,12 @@
+require 'slim'
+set :slim, tab_size: 2
+
+# Ignore deprecation warnings in build output
+require 'warning'
+Warning.ignore(/URI.*escape is obsolete/)
+
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
-
-activate :autoprefixer do |prefix|
-  prefix.browsers = "last 2 versions"
-end
 
 # Layouts
 # https://middlemanapp.com/basics/layouts/
@@ -45,4 +48,5 @@ page '/*.txt', layout: false
 #   activate :minify_javascript
 # end
 
+# For github pages
 set :build_dir, 'docs'
