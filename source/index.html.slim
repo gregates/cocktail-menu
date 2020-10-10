@@ -1,0 +1,5 @@
+.menu
+  - data.recipes.each do |record|
+    - recipe = record.last
+    h4 = recipe.name
+    p = recipe.ingredients.map(&:name).join(', ')
