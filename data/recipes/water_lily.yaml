@@ -1,13 +1,13 @@
 name: Water Lily
 ingredients:
   - name: gin
-    quantity: ¾ oz.
+    quantity: 0.75 oz.
   - name: crème de violette
-    quantity: ¾ oz.
+    quantity: 0.75 oz.
   - name: orange curaçao
-    quantity: ¾ oz.
+    quantity: 0.75 oz.
   - name: lemon juice
-    quantity: ¾ oz.
+    quantity: 0.75 oz.
 garnish:
   - orange twist
 glass: martini

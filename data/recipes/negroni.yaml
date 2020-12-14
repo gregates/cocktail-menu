@@ -1,0 +1,11 @@
+name: Negroni
+ingredients:
+  - name: gin
+    quantity: 1.5 oz.
+  - name: campari
+    quantity: 1 oz.
+  - name: sweet vermouth
+    quantity: 1 oz.
+garnish:
+  - orange twist
+glass: old fashioned

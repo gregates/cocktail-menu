@@ -3,7 +3,9 @@ ingredients:
   - name: Laird's apple brandy
     quantity: 2 oz.
   - name: lime juice
-    quantity: ¾ oz.
+    quantity: 0.5 oz.
+  - name: lemon juice
+    quantity: 0.5 oz.
   - name: grenadine
-    quantity: ¾ oz.
+    quantity: 0.75 oz.
 glass: coupe

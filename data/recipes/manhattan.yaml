@@ -1,0 +1,11 @@
+name: Manhattan
+ingredients:
+  - name: rye
+    quantity: 2.5 oz.
+  - name: sweet vermouth
+    quantity: 0.75 oz.
+  - name: Angostura bitters
+    quantity: 2 dashes
+garnish:
+  - cherry
+glass: chilled martini

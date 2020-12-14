@@ -1,0 +1,11 @@
+name: Sidecar
+ingredients:
+  - name: cognac
+    quantity: 2 oz.
+  - name: lemon juice
+    quantity: 0.75 oz.
+  - name: orange curaçao
+    quantity: 0.5 oz.
+garnish:
+  - orange twist
+glass: coupe
