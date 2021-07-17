@@ -1,8 +1,14 @@
+$grey: #aaa;
+
 * {
     box-sizing: border-box;
 }
 
 .menu {
+    h2 {
+        color: $grey;
+        border-bottom: 2px solid $grey;
+    }
     h4 {
         font-size: 18px;
         font-weight: bold;

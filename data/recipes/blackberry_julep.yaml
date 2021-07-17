@@ -1,0 +1,8 @@
+name: Blackberry Julep
+mocktail: true
+ingredients:
+  - name: ginger beer
+  - name: lime
+  - name: blackberry
+  - name: mint
+glass: collins

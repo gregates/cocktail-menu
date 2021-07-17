@@ -1,0 +1,9 @@
+name: Daquiri
+ingredients:
+  - name: rum
+    quantity: 2 oz.
+  - name: lime juice
+    quantity: 1 oz.
+  - name: gum syrup
+    quantity: 0.5 oz.
+glass: coupe

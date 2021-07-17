@@ -1,6 +1,10 @@
 * {
   box-sizing: border-box; }
 
+.menu h2 {
+  color: #aaa;
+  border-bottom: 2px solid #aaa; }
+
 .menu h4 {
   font-size: 18px;
   font-weight: bold;

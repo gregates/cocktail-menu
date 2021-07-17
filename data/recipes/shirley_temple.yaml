@@ -1,0 +1,8 @@
+name: Shirley Temple
+mocktail: true
+ingredients:
+  - name: ginger ale
+  - name: grenadine
+    quantity: 1 oz.
+  - name: cherry
+glass: collins

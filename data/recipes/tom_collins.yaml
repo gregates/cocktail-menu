@@ -1,0 +1,10 @@
+name: Tom Collins
+ingredients:
+  - name: gin
+    quantity: 2 oz.
+  - name: lemon
+    quantity: 1 oz.
+  - name: gum syrup
+    quantity: 0.75 oz.
+  - name: club soda
+glass: collins

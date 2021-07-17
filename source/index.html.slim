@@ -1,5 +1,13 @@
 .menu
   - data.recipes.each do |record|
     - recipe = record.last
+    - next if recipe.mocktail
+    h4 = recipe.name
+    p = recipe.ingredients.map(&:name).join(', ')
+
+  h2 Mocktails
+  - data.recipes.each do |record|
+    - recipe = record.last
+    - next unless recipe.mocktail
     h4 = recipe.name
     p = recipe.ingredients.map(&:name).join(', ')
